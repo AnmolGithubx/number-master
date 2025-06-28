@@ -73,9 +73,9 @@ Consistent Spacing: 8px grid system for visual harmony
 # 🔧 Configuration
 The game includes customizable settings:
 
-Difficulty Levels: Adjust range, guesses, and time limits
-Audio Preferences: Enable/disable sound effects
-Theme Selection: Light and dark mode support
+Difficulty Levels: Adjust range, guesses, and time limits /n
+Audio Preferences: Enable/disable sound effects /n
+Theme Selection: Light and dark mode support /n
 Persistent Storage: Settings saved automatically
 
 # 🤝 Contributing
