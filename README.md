@@ -83,8 +83,3 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 
 Made with ❤️ and lots of coffee.
-Clear
-Update
-
-
-
